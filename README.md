@@ -1,2 +1,2 @@
-# 810_09
+# student information repository project
 design for collecting student courses information
