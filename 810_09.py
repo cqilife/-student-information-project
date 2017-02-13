@@ -4,7 +4,7 @@ Created on Thu Nov  3 20:39:10 2016
 
 @author: sdasdadasdad
 """
-from  PrettyTable import PrettyTable
+import prettytable
 from collections import defaultdict
 import sys
 
