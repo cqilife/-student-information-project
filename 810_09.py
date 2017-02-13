@@ -2,7 +2,7 @@
 """
 Created on Thu Nov  3 20:39:10 2016
 
-@author: QC
+@author: sdasdadasdad
 """
 from  PrettyTable import PrettyTable
 from collections import defaultdict
@@ -13,7 +13,7 @@ def remain_courses(major,course1,file1):
     try:        
         content3 = open(file1,'r')
     except:
-        print('the file is not exist,please try again')
+        print('tsadssssss')
         sys.exit()
     else:
         for line3 in content3.readlines(): 
