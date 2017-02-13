@@ -2,7 +2,7 @@
 """
 Created on Thu Nov  3 20:39:10 2016
 
-@author: QC
+@author: sdasdadasdad
 """
 from  PrettyTable import PrettyTable
 from collections import defaultdict
