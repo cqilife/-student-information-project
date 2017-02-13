@@ -13,7 +13,7 @@ def remain_courses(major,course1,file1):
     try:        
         content3 = open(file1,'r')
     except:
-        print('the file is not exist,please try again')
+        print('tsadssssss')
         sys.exit()
     else:
         for line3 in content3.readlines(): 
